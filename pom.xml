@@ -12,7 +12,7 @@
 	<artifactId>FirstDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FirstDemo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>canera bank app using spring boot</description>
 
 	<properties>
 		<java.version>11</java.version>
